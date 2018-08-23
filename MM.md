@@ -1,4 +1,4 @@
-# A rethink on the MM Propositioni
+# A Rethink on the MM Proposition
 
 [The MM Proposition: A Rethink](files/MM-en.pdf)
 
