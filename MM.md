@@ -1,4 +1,4 @@
-# A Rethink: The Circular Justification in the MM Proposition
+# The Circular Justification in the MM Proposition: A Rethink
 
 [Perfect Market, Arbitrage, and Value Creation in the MM Proposition](https://ssrn.com/abstract=3554322), PDF ver 2020-02-17
 
