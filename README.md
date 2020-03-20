@@ -10,3 +10,13 @@ If the expected return of a stock is determined by its beta, we will face the ch
 To explain the evolution of the understanding of arbitrage from a deterministic world into an uncertain world, we restate and comment on the proofs of the MM Proposition in current perspectives. With the no-arbitrage principle in mind, we clearly read <span style="color:red">*the circular justification in the MM Proposition and the misleading concept of cost of equity*</span>. 
 
 
+# Book Draft: [Analysis of Pure Finance](APF.md)
+
+Abad's View of Asset Pricing: A new framework (axiomatic system) of financial theory
+Which Starts to answer the following questions
+1.	Can financial assets be priced? If so, can it be represented by a functional?
+2.	Are there any value creations during the construction of an asset portfolio? 
+3.	What is the relationship between limited liability and no arbitrage?
+4.	How can the above questions be stated mathematically?
+
+
