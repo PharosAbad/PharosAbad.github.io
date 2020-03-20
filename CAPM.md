@@ -1,7 +1,7 @@
 
 # CAPM: Absolute Pricing, or Relative Pricing?
 
-[Arbitrage Opportunity, Impossible Frontier, and Logical Circularity in CAPM Equilibrium](files/CAPM-en-nca.pdf), PDF ver 2020-02-17
+[Arbitrage Opportunity, Impossible Frontier, and Logical Circularity in CAPM Equilibrium](https://ssrn.com/abstract=3542055), PDF ver 2020-02-17
 
 **Abstract**: The capital market for CAPM is incomplete and is a Hilbert space, we find out the analytic expression for the SDF mimicking payoff in this market. The CAPM formula holds under the partial equilibrium of purely risky assets, which is equivalent to the condition that the market portfolio is the tangency portfolio. Since the general solution to asset prices in CAPM has only one dimension, given all individual investor’s endowments and mean-variance preferences, the condition of CAPM equilibrium turns out to be an equation of only one variable. With the closed-form solution to CAPM equilibrium, we see more clearly that <span style="color:red">*the risk-return characteristics is a false impression from the partial equilibrium of purely risky assets. Thus it is illusory, for the assets are priced as a whole and the prices are endogenous, the return of market portfolio is not exogenous but endogenous*</span>. By way of numerical examples, we show that CAPM equilibrium may coexist with arbitrage opportunities, and that the crisis of impossible frontier is due to market disequilibrium. We point out the incorrect practice of beta pricing by presenting negative prices of European call options.
 
