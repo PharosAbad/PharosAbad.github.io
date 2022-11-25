@@ -1,6 +1,5 @@
-# My Research
-
 <!--
+# My Research
 
 ## [Arbitrage Opportunity, Impossible Frontier, and Logical Circularity in CAPM Equilibrium](CAPM.md)
 
