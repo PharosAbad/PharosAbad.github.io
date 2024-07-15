@@ -20,7 +20,17 @@ To explain the evolution of the understanding of arbitrage from a deterministic 
 * In the CAPM equation, can the market beta of a stock take infinitely many values?  **Yes!**
 * Is the market beta a redundant variable or a valuable tool? **a redundant variable**
 
+## [The Arbitrage Pricing Theory (APT) with Arbitrage Opportunities](https://papers.ssrn.com/abstract=4894555)
 
+We design a numerical example of APT that incorporates arbitrage opportunities
+
+## [Countably Infinite Market: Completeness and Pricing Function](https://papers.ssrn.com/abstract=4894563)
+
+We prove the standard form of the second fundamental theorem of asset pricing, where there are an infinite number of assets, and the pricing functions are continuous.
+
+## [Arbitrage Opportunities and the First Fundamental Theorem of Asset Pricing in an Infinite Market](https://papers.ssrn.com/abstract=4894567)
+
+We prove the standard Fundamental Theorem of Asset Pricing (FTAP) with the no-arbitrage condition, not the sophisticated concept such as NFLVR (No Free Lunch with Vanishing Risk) or else. We illustrate the FTAP in the infinite market by numerical examples.
 
 # Book Draft: [Analysis of Pure Finance](MF/APF.md)
 
