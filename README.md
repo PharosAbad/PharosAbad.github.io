@@ -1,7 +1,62 @@
 
 # My Research
 
+
+## [The Arbitrage Pricing Theory: Some Clarifying Comments](https://ssrn.com/abstract=5603250) 
+
+2025-10-19  
+
+Our examination of the Ross theorem reveals a conceptual shift in the APT's pricing principle---**from an interpretation grounded in systematic risk to one based on relative pricing**. Although APT was originally formulated to refine and extend the systematic risk paradigm introduced by Sharpe (1964)---notably the dichotomy between diversifiable and non-diversifiable risk---our analysis shows that this interpretation rests on a historically understandable but ultimately mistaken analogy.
+
+### Ross theorem
+
+The negation of the Ross theorem is: Suppose that the return generating
+process follows Ross's factor structure, then for all $\gamma_{0}\in
+\mathbb{R}$ and $\boldsymbol{\gamma}=[\gamma_{1},\gamma_{2},\cdots,\gamma
+_{K}]^{\prime}\in\mathbb{R}^{K}$, there must be
+
+$$
+\sum_{n=1}^{\infty}(\mu_{n}-\gamma_{0}-\boldsymbol{\beta}_{n}^{\prime
+}\boldsymbol{\gamma})^{2}=\infty
+$$
+
+Let $\gamma_{0}=1$, $\boldsymbol{\gamma}=0$, and set $\mu_{n}=1+2^{-n/2}$,
+then
+
+$$
+\sum_{n=1}^{\infty}(\mu_{n}-\gamma_{0}-\boldsymbol{\beta}_{n}^{\prime
+}\boldsymbol{\gamma})^{2}=\sum_{n=1}^{\infty}2^{-n}=1<\infty
+$$
+
+It is *surprisingly* easy to disprove the negation of the Ross theorem.
+The negation is false; therefore, the original statement is true.
+
+ChatGPT: [This article challenges 50 years of conventional interpretation of APT and has both theoretical and empirical implications for modern asset pricing research](https://chatgpt.com/s/t_68f44e30b618819184cf67862fc46162)
+1. Reinterprets the Ross Theorem
+1. Shifts APT from “systematic risk” to “relative pricing”
+1. Identifies Arbitrage and Unbounded Pricing Errors within APT
+1. Provides a Clean Economic Interpretation of Bounds
+1. Clarifies the Role of Chamberlain–Rothschild Bound
+1. Mathematical and Conceptual Depth
+
+
+
+
+
+## [A Deeper Theoretical Understanding of the Capital Asset Pricing Model](https://ssrn.com/abstract=5094280) 
+
+2025-01-16 
+
+The Sharpe-Fama equation represents a deterministic relationship. It is neither a cross-sectional model nor a time-series model. We present the following discoveries regarding the CAPM: First, the Sharpe-Fama equation and the Lintner equation are equivalent to the semi-clearing condition, where the weight of the aggregate demand portfolio equals that of the market portfolio, although their values may not satisfy Walras's Law. Second, the general solution to asset prices in the Lintner equation is one-dimensional in nature, with the market portfolio's value serving as a free variable. Third, this one-dimensional solution leads to the know-one-know-all property of the CAPM. Fourth, **as a pricing formula, the Sharpe-Fama equation functions as a relative pricing formula with respect to the market portfolio or any asset without price or mean decoupling**. For the beta pricing formula, it upholds the linear pricing rule prescribed by the law of financial portfolios and is applicable only to portfolios of stocks (marketable payoffs); it is unsuitable for pricing unattainable assets. Fifth, the conditional expectation of an asset's return, given the market return, may not be a linear function of the market return.
+
+
+
+## [More papers on SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4008686)
+
+
+
 <!--
+
 ## [Arbitrage Opportunity, Impossible Frontier, and Logical Circularity in CAPM Equilibrium](CAPM.md)
 
 If the expected return of a stock is determined by its beta, we will face the chicken-and-egg problem: a stock’s return is determined from its beta, but beta itself depends on the return directly. On the other hand, to calculate the beta, we need to know the market return first, and to calculate the market return, we need to know the returns of each stock. Johnstone (2017, p.503) refers to this situation as “the logical circularity built into the CAPM equilibrium mechanism”. Does this logical circularity really exist?
@@ -11,7 +66,7 @@ If the expected return of a stock is determined by its beta, we will face the ch
 
 To explain the evolution of the understanding of arbitrage from a deterministic world into an uncertain world, we restate and comment on the proofs of the MM Proposition in current perspectives. With the no-arbitrage principle in mind, we clearly read <span style="color:red">*the circular justification in the MM Proposition and the misleading concept of cost of equity*</span>. 
 
--->
+
 
 ## [Understanding the CAPM Equation](https://ssrn.com/abstract=5094280) 
 
@@ -50,4 +105,4 @@ Which Starts to answer the following questions
 3.	What is the relationship between limited liability and no arbitrage?
 4.	How can the above questions be stated mathematically?
 
-
+-->
