@@ -1,4 +1,16 @@
-    <!-- Other HTML content -->
-    {% include _mathjax_support.html %}
-    </body>
-    </html>
+
+
+
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  
+  {% include _mathjax_support.html %}
+
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
