@@ -10,7 +10,18 @@ Our examination of the Ross theorem reveals a conceptual shift in the APT's pric
 
 ### Ross theorem
 
-The negation of the Ross theorem is: Suppose that the return generating
+The Ross theorem is the Theorem II of Ross (1976, p.352): If the return generating process follows Ross's factor structure, then
+there exist numbers $\gamma_{0}\in\mathbb{R}$ and $\boldsymbol{\gamma}
+=[\gamma_{1},\gamma_{2},\cdots,\gamma_{K}]^{\prime}\in\mathbb{R}^{K}$ such
+that
+
+$$
+\sum_{n=1}^{\infty}(\mu_{n}-\gamma_{0}-\boldsymbol{\beta}_{n}^{\prime
+}\boldsymbol{\gamma})^{2}<\infty
+$$
+
+
+The *negation* of the Ross theorem is: Suppose that the return generating
 process follows Ross's factor structure, then for all $\gamma_{0}\in
 \mathbb{R}$ and $\boldsymbol{\gamma}=[\gamma_{1},\gamma_{2},\cdots,\gamma
 _{K}]^{\prime}\in\mathbb{R}^{K}$, there must be
