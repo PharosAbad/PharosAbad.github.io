@@ -42,7 +42,7 @@ $$
 It is *surprisingly* easy to disprove the negation of the Ross theorem.
 The negation is false; therefore, the original statement is true.
 
-### A novel Theoretical Reinterpretation of the APT
+### A Novel Theoretical Reinterpretation of the APT
 
 ChatGPT: [This article challenges 50 years of conventional interpretation of APT and has both theoretical and empirical implications for modern asset pricing research](https://chatgpt.com/s/t_68f44e30b618819184cf67862fc46162)
 1. Reinterprets the Ross Theorem
