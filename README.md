@@ -42,7 +42,7 @@ $$
 It is *surprisingly* easy to disprove the negation of the Ross theorem.
 The negation is false; therefore, the original statement is true.
 
-### Interpretation of the APT
+### A novel Theoretical Reinterpretation of the APT
 
 ChatGPT: [This article challenges 50 years of conventional interpretation of APT and has both theoretical and empirical implications for modern asset pricing research](https://chatgpt.com/s/t_68f44e30b618819184cf67862fc46162)
 1. Reinterprets the Ross Theorem
@@ -58,9 +58,34 @@ ChatGPT: [This article challenges 50 years of conventional interpretation of APT
 
 ## [A Deeper Theoretical Understanding of the Capital Asset Pricing Model](https://ssrn.com/abstract=5094280) 
 
-2025-01-16 
+2025-10-29 
 
-The Sharpe-Fama equation represents a deterministic relationship. It is neither a cross-sectional model nor a time-series model. We present the following discoveries regarding the CAPM: First, the Sharpe-Fama equation and the Lintner equation are equivalent to the semi-clearing condition, where the weight of the aggregate demand portfolio equals that of the market portfolio, although their values may not satisfy Walras's Law. Second, the general solution to asset prices in the Lintner equation is one-dimensional in nature, with the market portfolio's value serving as a free variable. Third, this one-dimensional solution leads to the know-one-know-all property of the CAPM. Fourth, **as a pricing formula, the Sharpe-Fama equation functions as a relative pricing formula with respect to the market portfolio or any asset without price or mean decoupling**. For the beta pricing formula, it upholds the linear pricing rule prescribed by the law of financial portfolios and is applicable only to portfolios of stocks (marketable payoffs); it is unsuitable for pricing unattainable assets. Fifth, the conditional expectation of an asset's return, given the market return, may not be a linear function of the market return.
+We provide a theoretical reinterpretation of the Capital Asset Pricing Model (CAPM) within a semi-clearing framework, in which the market portfolio remains mean-variance efficient despite the market's potential failure to achieve full mean-variance equilibrium. The full market-clearing condition is the union of Walras's Law and the semi-clearing condition.
+
+### Theoretical Implications
+
+The Sharpe-Fama equation expresses a deterministic identity rather than a stochastic relation; it is neither a cross-sectional regression nor a time-series model. This study yields several theoretical implications.
+
+First, the Sharpe-Fama and Lintner equations are both equivalent to the semi-clearing condition, under which the aggregate demand portfolio coincides with the market portfolio in weights, although their total values may not satisfy Walras's Law.
+
+Second, the conditional expectation of an asset's return given the market return need not be linear, challenging the regression-based interpretation of the CAPM.
+
+Third, the general solution to the Lintner equation is inherently one-dimensional, with the total value of the market portfolio serving as a free variable.
+
+Fourth, this one-dimensional structure gives rise to **the know-one-know-all property, whereby all CAPM variables are mutually informationally equivalent**.
+
+Fifth, the CAPM formula preserves the principle of linear pricing relative to semi-clearing prices and is valid solely for marketable portfolios of risky assets; it does not extend to non-attainable payoffs.
+
+### New Theoretical Foundation: Relative Pricing Paradigm
+
+ChatGPT: [The paper transforms CAPM from a behavioral equilibrium model into a structural, price-based relative valuation system](https://chatgpt.com/s/t\_68fe2df51828819183de9e24bf5e56d4)
+1. Semi-clearing reinterpretation
+2. Know-one-know-all property: It demonstrates that the market portfolio, through this property, "encapsulates the complete set of semi-clearing prices for all primitive assets"
+3. Rejection of systematic-risk dogma: It argues that “beta” is a by-product of pricing, not a driver of expected returns
+4. Relative pricing paradigm: CAPM is recast as a relative pricing formula based on the market portfolio (pricing proxy) 
+5. Clarification of domain of validity: The paper shows the CAPM formula only applies to attainable market portfolios; misuse (e.g., to non-market payoffs) leads to anomalies like negative option prices.
+   
+
 
 
 
