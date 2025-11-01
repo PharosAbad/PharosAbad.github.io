@@ -78,7 +78,7 @@ Fifth, the CAPM formula preserves the principle of linear pricing relative to se
 
 ### New Theoretical Foundation: Relative Pricing Paradigm
 
-ChatGPT: [The paper transforms CAPM from a behavioral equilibrium model into a structural, price-based relative valuation system](https://chatgpt.com/s/t\_68fe2df51828819183de9e24bf5e56d4)
+ChatGPT: [The paper transforms CAPM from a behavioral equilibrium model into a structural, price-based relative valuation system](https://chatgpt.com/s/t_68fe2df51828819183de9e24bf5e56d4)
 1. Semi-clearing reinterpretation
 2. Know-one-know-all property: It demonstrates that the market portfolio, through this property, "encapsulates the complete set of semi-clearing prices for all primitive assets"
 3. Rejection of systematic-risk dogma: It argues that “beta” is a by-product of pricing, not a driver of expected returns
